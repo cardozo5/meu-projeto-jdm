@@ -1,0 +1,103 @@
+header {
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho {
+    background-color: #ff0000;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.jdm-imagem{
+    width: 25%;
+}
+
+.jdm{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.jdm-div-conteudo{
+    width: 35%;
+}
+
+.jdm-titulo{
+    padding: 24px 0;
+}
+
+.mazda-rx7{
+    width: 180px;
+}
+
+.supramk4{
+    width: 220px;
+}
+
+.jdm-div{
+    text-align: center;
+    padding: 16px 0;
+}
+
+.jdm-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.r34{
+    width: 180px;
+}
+
+.nissan{
+    width: 180px;
+}
+
+.nsx{
+    width: 180px;
+}
+
+.lancer{
+    width: 180px;
+}
+
+.jdm-titulo{
+    text-align: center;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 50px;
+    padding: 8px 0;
+
+}
